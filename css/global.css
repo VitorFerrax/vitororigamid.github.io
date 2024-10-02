@@ -4,7 +4,10 @@ body {
   color: #141414;
 }
 
-h1, h2, h3, p {
+h1,
+h2,
+h3,
+p {
   margin: 0px;
 }
 
